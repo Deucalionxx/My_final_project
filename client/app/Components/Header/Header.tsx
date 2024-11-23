@@ -57,7 +57,7 @@ function Header() {
 
         <div className="flex justify-center gap-3 w-full md:w-auto md:gap-4">
           <Link
-            href="https://github.com/Legit-Sam/3mtt_final_project"
+            href="https://github.com/Deucalionxx/My_final_project.git"
             passHref
             target="_blank"
             rel="noopener noreferrer"
